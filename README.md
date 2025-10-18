@@ -62,9 +62,9 @@ These three give a *complete view* — from statistical distance to deep learnin
                 E --> H[Autoencoder<br>(Neural network-based)]
                       H --> I[AutoML<br>Automates model selection & tuning]
 
-## 🧪 Real-World Example: Behavioral Change in Test Samples
+## Real-World Example: Behavioral Change
 
-Imagine you have **1000 test samples**, and only a **few behave differently**.  
+🧪 Imagine you have **1000 test samples**, and only a **few behave differently**.  
 You’re asked: _“Which tests performed abnormally?”_
 
 💳 Credit Card Fraud Detection:
