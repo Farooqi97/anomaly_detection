@@ -53,17 +53,15 @@ These three give a *complete view* — from statistical distance to deep learnin
 
 ### 🧠 Learning Path
 
-Machine Learning
-├── Supervised Learning
-│   └── Needs labeled anomalies (not practical here)
-└── Unsupervised Learning
-    └── Anomaly Detection
-        ├── Isolation Forest (Tree-based)
-        ├── Local Outlier Factor (Density-based)
-        └── Autoencoder (Neural network-based)
-             ↓
-          AutoML
-          └── Automates model selection & tuning
+flowchart TD
+    A[Machine Learning] --> B[Supervised Learning]
+    B --> C[Needs labeled anomalies (not practical here)]
+    A --> D[Unsupervised Learning]
+    D --> E[Anomaly Detection]
+    E --> F[Isolation Forest<br>(Tree-based)]
+    E --> G[Local Outlier Factor<br>(Density-based)]
+    E --> H[Autoencoder<br>(Neural network-based)]
+    H --> I[AutoML<br>Automates model selection & tuning]
 
 ## 🧪 Real-World Example: Behavioral Change in Test Samples
 
