@@ -67,6 +67,14 @@ These three give a *complete view* — from statistical distance to deep learnin
 Imagine you have **1000 test samples**, and only a **few behave differently**.  
 You’re asked: _“Which tests performed abnormally?”_
 
+💳 Credit Card Fraud Detection:
+In credit card transactions, most spending behavior is normal and follows patterns — such as typical amounts, merchant types, or time of day.
+An anomaly may look like:
+
+* A sudden transaction in a foreign country
+* An unusually high purchase amount
+* Multiple rapid transactions within seconds
+
 But you don’t have labels — you don’t know which ones are odd.
 
 > This is where **Unsupervised Anomaly Detection** steps in.  
