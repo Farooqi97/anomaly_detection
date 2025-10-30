@@ -1,3 +1,10 @@
+> ⚠️ **Project Status: Inactive**  
+> **Reason:** Taken into Company Project.  
+> This repository is no longer publicly maintained.
+
+![status: inactive](https://img.shields.io/badge/status-inactive-red)
+
+
 # Detecting Behavioral Anomalies – A Journey into Unsupervised ML
 
 ## 🧭 Overview
